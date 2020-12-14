@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\bin\Debug\netcoreapp3.1\Csharp.exe
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\bin\Debug\netcoreapp3.1\Csharp.deps.json
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\bin\Debug\netcoreapp3.1\Csharp.runtimeconfig.json
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\bin\Debug\netcoreapp3.1\Csharp.runtimeconfig.dev.json
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\bin\Debug\netcoreapp3.1\Csharp.dll
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\bin\Debug\netcoreapp3.1\Csharp.pdb
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\obj\Debug\netcoreapp3.1\Csharp.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\obj\Debug\netcoreapp3.1\Csharp.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\obj\Debug\netcoreapp3.1\Csharp.AssemblyInfo.cs
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\obj\Debug\netcoreapp3.1\Csharp.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\obj\Debug\netcoreapp3.1\Csharp.dll
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\obj\Debug\netcoreapp3.1\Csharp.pdb
+C:\Users\dev\Desktop\SegundaAula_Chsarp\Csharp\obj\Debug\netcoreapp3.1\Csharp.genruntimeconfig.cache
